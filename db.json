@@ -1,0 +1,107 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Nancy",
+      "lastName": "Gladdis",
+      "email": "ngladdis5i@posterous.com",
+      "dob": "2001-11-15T10:33:48Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Flashpoint",
+      "experience": 20,
+      "package": 17
+    },
+    {
+      "id": 2,
+      "firstName": "Rhona",
+      "lastName": "Pickup",
+      "email": "rpickup5j@yandex.ru",
+      "dob": "1985-03-06T18:31:22Z",
+      "gender": "Female",
+      "education": "Intermediate",
+      "company": "Photobug",
+      "experience": 2,
+      "package": 16
+    },
+    {
+      "firstName": "MOHAMMAD",
+      "lastName": "NAIF",
+      "email": "mnaif138@gmail.com",
+      "dob": "2023-04-11T18:30:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "tryhj",
+      "experience": 5,
+      "package": 4,
+      "id": 3
+    },
+    {
+      "firstName": "MOHAMMAD",
+      "lastName": "NAIF",
+      "mobile": "07860 374601",
+      "email": "mnaif138@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "hjdkl;",
+      "experience": 7,
+      "package": 7,
+      "id": 4
+    },
+    {
+      "firstName": "MOHAMMAD",
+      "lastName": "NAIF",
+      "mobile": "07860 374601",
+      "email": "mnaif138@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "t44rfd",
+      "experience": 5,
+      "package": 5,
+      "id": 5
+    },
+    {
+      "firstName": "MOHAMMAD",
+      "lastName": "NAIF",
+      "mobile": "07860 374601",
+      "email": "mnaif138@gmail.com",
+      "adhar": "t4t5ythgfwes",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "335trfd",
+      "experience": 5,
+      "package": 5,
+      "id": 6
+    },
+    {
+      "firstName": "sagar",
+      "lastName": "singh",
+      "mobile": "858695545",
+      "email": "sagar",
+      "adhar": "jhgjdft",
+      "gender": "male",
+      "education": "Graduate",
+      "card": "Pan Card",
+      "id": 7
+    }
+  ]
+}
